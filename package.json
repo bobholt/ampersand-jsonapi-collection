@@ -1,7 +1,7 @@
 {
   "name": "ampersand-jsonapi-collection",
   "description": "An extension to ampersand-rest-collection that adds methods and properties for working with JSON-API.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Bob Holt",
   "files": [
     "bin/ampersand-jsonapi-collection.js"
