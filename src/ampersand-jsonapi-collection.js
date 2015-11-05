@@ -25,8 +25,7 @@ import where from 'lodash.where';
  * @requires lodash.isArray
  * @requires lodash.map
  * @requires lodash.where
- * @requires module:config
- * @requires module:mixins/http-bearer-auth
+ * @requires ajaxConfig
  * @extends AmpersandRestCollection
  * @mixes ajaxConfig
  * @argument {Array} models   - The initial array of models to set as
