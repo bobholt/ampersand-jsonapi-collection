@@ -39,7 +39,7 @@
     "ampersand"
   ],
   "license": "MIT",
-  "main": "src/ampersand-jsonapi-collection.js",
+  "main": "bin/ampersand-jsonapi-collection.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bobholt/ampersand-jsonapi-collection.git"
